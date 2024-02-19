@@ -103,7 +103,7 @@ To run the application, follow the steps below:
 
 1. Clone the Repository
     ```
-    [git clone https://](https://github.com/josaphatcampos/watterjugchallenge.git)
+    git clone https://github.com/josaphatcampos/watterjugchallenge.git
     ```
 2. In the project folder, run the following command line in the terminal:
     ```
